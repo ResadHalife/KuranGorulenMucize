@@ -1,3 +1,3 @@
 # Kuran Görülen Mucize - Reşad Halife
-
-![alt text](https://raw.githubusercontent.com/ResadHalife/KuranGorulenMucize/master/kapak.png)
+# [Kitabı İndirmek İçin Tıklayın](https://github.com/ResadHalife/KuranGorulenMucize/raw/master/Kuran%20Görülen%20Mucize%20-%20Reşad%20Halife.pdf)
+![Kuran Görülen Mucize - Reşad Halife](https://raw.githubusercontent.com/ResadHalife/KuranGorulenMucize/master/kapak.png)
